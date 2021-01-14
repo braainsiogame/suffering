@@ -1,0 +1,6 @@
+name: "suffering"
+displayName: "no" //what displays in the mod selection menu
+author: "iogame"
+description: "i am held in quezler's basement"
+version: "why"
+minGameVersion: "105"
