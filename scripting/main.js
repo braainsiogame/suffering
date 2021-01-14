@@ -1,2 +1,2 @@
 // you were wrong, go back
-sprite = new ItemTurret("test-sprite")
+sprite = new ItemTurret("logo")
